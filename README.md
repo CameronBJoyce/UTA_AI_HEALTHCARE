@@ -1,2 +1,5 @@
 # UTA_AI_HEALTHCARE
-Project Folders will be stored here
+Current additions:
+
+1. Self_Tutorial is for the self-learning tutorial using MIMIC data
+   - Python Notebook containing the code with comments
